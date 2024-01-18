@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/isac/scalalabbar/w8/gamol'
+let g:netrw_dirhist_7='/home/isac/scalalabbar/w8'
+let g:netrw_dirhist_6='/home/isac/scalalabbar'
+let g:netrw_dirhist_5='/home/isac/scalalabbar/w8'
+let g:netrw_dirhist_4='/home/isac/scalalabbar/w8/gamol'
+let g:netrw_dirhist_3='/home/isac/scalalabbar/w8'
+let g:netrw_dirhist_2='/home/isac/scalalabbar'
+let g:netrw_dirhist_1='/home/isac'
